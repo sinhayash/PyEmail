@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{index:0,search:0,python:0,modul:[],send:0,page:0,content:0,smtplib:0,email:0,librari:0},objtypes:{},objnames:{},filenames:["index"],titles:["Welcome to PyEmail&#8217;s documentation!"],objects:{},titleterms:{document:0,pyemail:0,welcom:0,indic:0,tabl:0}})
